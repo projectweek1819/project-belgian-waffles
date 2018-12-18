@@ -5,7 +5,7 @@ function onMouseDown(state, args){
 }
 
 function onMouseDown2(state, args){
-    return {count: state.count+1};
+    return {count: state.count+1}; snotjes
 }
 
 function counter3(){
